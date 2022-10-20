@@ -1,0 +1,18 @@
+{
+  "name": "Situs-Slot-Bonus-New-Member-100-di-Awal-Depo-25-Bonus-25-To-Rendah-3X-5X-8X-10X-14X-18X",
+  "theme": "ui",
+  "version": "1.5.0",
+  "description": "Situs Slot Bonus New Member 100 di Awal Depo 25 Bonus 25 To Rendah 3X 5X 8X 10X 14X 18X",
+  "keywords": [
+    "Situs Judi Slot",
+    "Situs Slot Online",
+    "Slot Online",
+    "Slot Gacor",
+    "Slot Pasti Menang"
+  ],
+  "repository": "https://github.com/temalogin/pusing",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
